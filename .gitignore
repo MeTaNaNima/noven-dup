@@ -20,3 +20,4 @@ Thumbs.db
 # IDE-specific files
 .vscode/
 .idea/
+.anima/
